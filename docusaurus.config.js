@@ -11,15 +11,15 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://SapphireForge.github.io',
+  url: 'https://16jalayt.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/SapphireForge.github.io/',
+  baseUrl: '/16jalayt.github.io/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: '16jalayt', // Usually your GitHub org/user name.
-  projectName: 'SapphireForge.github.io', // Usually your repo name.
+  projectName: '16jalayt.github.io', // Usually your repo name.
   trailingSlash: false,
   deploymentBranch: 'gh-pages',
 
