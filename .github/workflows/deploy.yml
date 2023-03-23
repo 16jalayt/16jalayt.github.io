@@ -33,4 +33,4 @@ jobs:
         run: |
           git config --global user.name "16jalayt"
           git config --global user.email "16jalayt@gmail.com"
-          npm run deploy
+          GIT_USER=16jalayt USE_SSH=true npm run deploy
