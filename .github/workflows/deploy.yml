@@ -27,4 +27,12 @@ jobs:
         run: |
           npm install 
           npm run build
+          
+      # Install and build Docusaurus website
+      - uses: oleksiyrudenko/gha-git-credentials@v2-latest
+        with:
+          token: '${{ secrets.GITHUB_TOKEN }}'
+          
+      - name: Deploy Docusaurus website
+        run: |
           npm run deploy
