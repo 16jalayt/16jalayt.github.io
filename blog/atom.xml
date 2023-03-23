@@ -20,17 +20,4 @@
         </author>
         <category label="hello" term="hello"/>
     </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello World! MDX]]></title>
-        <id>https://16jalayt.github.io/blog/HelloMDX</id>
-        <link href="https://16jalayt.github.io/blog/HelloMDX"/>
-        <updated>2023-03-22T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The site won't publish for some reason. again.]]></summary>
-        <content type="html"><![CDATA[<p>The site won't publish for some reason. again.</p><h1>Hello World!</h1><p>Welcome to the obligatory hello world post to test the posing process.</p><p><img loading="lazy" src="/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpg" width="1500" height="500" class="img_ev3q"></p><p><img loading="lazy" src="/assets/images/Google_Contacts_logo-42031423f6c56f47b89c14c6f8053091.png" width="512" height="512" class="img_ev3q"></p><a href="/img/Google_Contacts_logo.png"><img loading="lazy" src="/img/Google_Contacts_logo.png" alt="docusaurus mascot" class="img_ev3q"></a><img loading="lazy" alt="Example banner" class="img_ev3q"><img loading="lazy" style="transform:scale(1.33)" class="img_ev3q"><img loading="lazy" src="/img/Google_Contacts_logo.png" alt="docusaurus mascot" width="120" height="120" class="img_ev3q"><img loading="lazy" src="[object Object]" width="120" height="120" class="img_ev3q"><p> <a target="_blank" href="/assets/files/Google_Contacts_logo-42031423f6c56f47b89c14c6f8053091.png">&lt;img src="/img/Google_Contacts_logo.png" width="32" height="32"&gt;</a></p>]]></content>
-        <author>
-            <name>Jason Layton</name>
-            <uri>https://github.com/16jalayt</uri>
-        </author>
-        <category label="hello" term="hello"/>
-    </entry>
 </feed>
