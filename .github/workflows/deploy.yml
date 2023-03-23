@@ -31,6 +31,7 @@ jobs:
       # Install and build Docusaurus website
       - uses: oleksiyrudenko/gha-git-credentials@v2-latest
         with:
+          name: 16jalayt
           token: '${{ secrets.GITHUB_TOKEN }}'
           
       - name: Deploy Docusaurus website
