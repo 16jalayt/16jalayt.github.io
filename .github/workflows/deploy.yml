@@ -36,4 +36,5 @@ jobs:
           
       - name: Deploy Docusaurus website
         run: |
+          git config  user.name "16jalayt"
           npm run deploy
