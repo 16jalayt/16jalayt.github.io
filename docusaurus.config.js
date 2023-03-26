@@ -48,7 +48,13 @@ const config = {
             //'https://github.com/16jalayt/16jalayt.github.io/tree/master/',
         },
         blog: {
-          showReadingTime: true,
+          showReadingTime: false,
+          exclude: [
+            '**/_*.{js,jsx,ts,tsx,md,mdx}',
+            '**/_*/**',
+            '**/*.test.{js,jsx,ts,tsx,md,mdx}',
+            '**/__tests__/**',
+          ],
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           //editUrl:
@@ -148,6 +154,7 @@ const config = {
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
+        additionalLanguages: ['batch', 'c', 'csharp', 'cpp', 'java'],
       },
       sitemap: {
         changefreq: 'weekly',
