@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunksapphire_forge_github_io=self.webpackChunksapphire_forge_github_io||[]).push([[713],{3457:e=>{e.exports=JSON.parse('[{"label":"teardown","permalink":"/blog/tags/teardown","count":1},{"label":"trains","permalink":"/blog/tags/trains","count":1}]')}}]);
