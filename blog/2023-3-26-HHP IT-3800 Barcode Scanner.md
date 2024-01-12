@@ -10,11 +10,9 @@ Just a quick teardown of a barcode scanner. One annoying thing is you have to re
 
 :::info
 
-Manual download:
-<https://drive.google.com/file/d/17ErWwt9QRGA4o5jdOde_Xb7mj_jnladc/view?usp=sharing>
+[Manual download](https://drive.google.com/file/d/17ErWwt9QRGA4o5jdOde_Xb7mj_jnladc/view?usp=sharing)
 
-CPU Datasheet:
-<https://drive.google.com/file/d/1vVM9eYV08V0UKzpKYW0xNOAsg4zZ6SxE/view?usp=sharing>
+[CPU Datasheet](https://drive.google.com/file/d/1vVM9eYV08V0UKzpKYW0xNOAsg4zZ6SxE/view?usp=sharing)
 
 :::
 
