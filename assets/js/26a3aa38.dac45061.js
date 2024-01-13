@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_16jalayt_github_io=self.webpackChunk_16jalayt_github_io||[]).push([[91],{8998:a=>{a.exports=JSON.parse('{"label":"software","permalink":"/tags/software","allTagsPath":"/tags","count":1,"unlisted":false}')}}]);

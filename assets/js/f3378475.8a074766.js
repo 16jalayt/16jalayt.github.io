@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_16jalayt_github_io=self.webpackChunk_16jalayt_github_io||[]).push([[244],{719:t=>{t.exports=JSON.parse('{"permalink":"/blog/tags/teardown","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
