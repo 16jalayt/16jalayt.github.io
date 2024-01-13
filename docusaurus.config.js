@@ -158,10 +158,10 @@ const config = {
           {
             title: 'More',
             items: [
-              {
+              /*{
                 label: 'Blog',
                 to: '/blog',
-              },
+              },*/
               {
                 label: 'GitHub',
                 href: githubUserLink,
