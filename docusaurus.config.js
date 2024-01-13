@@ -1,7 +1,7 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const {themes} = require('prism-react-renderer');
+const { themes } = require('prism-react-renderer');
 const lightTheme = themes.github;
 const darkTheme = themes.dracula;
 const githubUserLink = 'https://github.com/16jalayt/';
@@ -41,15 +41,20 @@ const config = {
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
-        docs: {
+        /*docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           //editUrl:
             //'https://github.com/16jalayt/16jalayt.github.io/tree/master/',
-        },
+        },*/
+        docs: false, // Optional: disable the docs plugin
         blog: {
+          //TODO:/tags goes to tag list. /archive
+          routeBasePath: '/', // Serve the blog at the site's root
           showReadingTime: false,
+          blogSidebarCount: 'ALL',
+          postsPerPage: 5,
           exclude: [
             '**/_*.{js,jsx,ts,tsx,md,mdx}',
             '**/_*/**',
@@ -59,7 +64,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           //editUrl:
-            //'https://github.com/16jalayt/16jalayt.github.io/tree/master/',
+          //'https://github.com/16jalayt/16jalayt.github.io/tree/master/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -99,7 +104,8 @@ const config = {
           //  position: 'left',
           //  label: 'Docs',
           //},
-          {to: '/blog', label: 'Blog', position: 'left'},
+          //{ to: '/blog', label: 'Blog', position: 'left' },
+          { to: '/archive', label: 'Blog Posts', position: 'left' },
           {
             href: githubUserLink,
             label: 'GitHub',
@@ -110,12 +116,25 @@ const config = {
       footer: {
         style: 'dark',
         links: [
-          {
+          /*{
             title: 'Docs',
             items: [
               {
                 label: 'Intro',
                 to: '/docs/intro',
+              },
+            ],
+          },*/
+          {
+            title: 'Blog',
+            items: [
+              {
+                label: 'Archvie',
+                to: '/archive',
+              },
+              {
+                label: 'Tags',
+                to: '/tags',
               },
             ],
           },
