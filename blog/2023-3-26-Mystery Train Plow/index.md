@@ -16,9 +16,9 @@ I didn't know what this was beforehand. They are called Jordan Spreaders. They w
 From <a href="https://www.flickr.com/photos/26063910@N00">Brian Hicks</a>:
 <Image src="https://live.staticflickr.com/4422/35694226874_8721fe5b27_b.jpg"
 href="https://live.staticflickr.com/4422/35694226874_8721fe5b27_b.jpg"
-flkr="https://www.flickr.com/photos/26063910@N00"/>
+link="https://www.flickr.com/photos/26063910@N00"/>
 
 From <a href="https://www.flickr.com/photos/26063910@N00">Ed W</a>:
 <Image src="https://live.staticflickr.com/1848/29805078527_192e94e055_b.jpg"
 href="https://live.staticflickr.com/1848/29805078527_192e94e055_b.jpg"
-flkr="https://www.flickr.com/photos/26063910@N00"/>
+link="https://www.flickr.com/photos/26063910@N00"/>

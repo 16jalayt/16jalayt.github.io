@@ -162,6 +162,17 @@ const config = {
                 label: 'Blog',
                 to: '/blog',
               },*/
+              /*{
+                html: `
+                <a href="https://www.netlify.com" target="_blank" rel="noreferrer noopener" aria-label="Deploys by Netlify" id="test">
+                  <img src="https://www.netlify.com/img/global/badges/netlify-color-accent.svg" alt="Deploys by Netlify" width="114" height="51" />
+                </a>
+                    <script>
+                    const element = document.getElementById("test");
+                    element.href = "www.google.com"
+                    </script>
+                  `,
+              },*/
               {
                 label: 'GitHub',
                 href: githubUserLink,

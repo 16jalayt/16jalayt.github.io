@@ -19,7 +19,7 @@ const Image = (props) => {
 			<a href={props.href} target="_blank">
 				<ImageObj src={props.src} alt="Unhelpful generic description of an image." />
 			</a>
-			<a href={props.flkr}>Uploaded to Flickr</a>
+			<a href={props.link}> {props.subText || "Uploaded to Flickr"} </a>
         </ImageDiv>
     )
 }
