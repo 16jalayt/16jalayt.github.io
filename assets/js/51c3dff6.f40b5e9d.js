@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_16jalayt_github_io=self.webpackChunk_16jalayt_github_io||[]).push([[137],{111:a=>{a.exports=JSON.parse('{"label":"teardown","permalink":"/tags/teardown","allTagsPath":"/tags","count":3,"unlisted":false}')}}]);
