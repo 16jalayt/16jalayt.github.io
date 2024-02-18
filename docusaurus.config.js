@@ -129,7 +129,7 @@ const config = {
             title: 'Blog',
             items: [
               {
-                label: 'Archvie',
+                label: 'Archive',
                 to: '/archive',
               },
               {
@@ -173,6 +173,10 @@ const config = {
                     </script>
                   `,
               },*/
+              {
+                label: 'Contact me at: sapphireforge238@gmail.com',
+                href: 'mailto:sapphireforge238@gmail.com',
+              },
               {
                 label: 'GitHub',
                 href: githubUserLink,

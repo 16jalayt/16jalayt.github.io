@@ -12,6 +12,8 @@ This was my families' first DSL modem circa 2009. Quest was apparently a nation 
 href="https://live.staticflickr.com/65535/52772715581_b511a8c6ef_o.jpg"
 link="https://www.flickr.com/photos/193261163@N03/52772715581"/>
 
+<!-- truncate -->
+
 <Image src="https://live.staticflickr.com/65535/52772718471_9c5b6def48_c_d.jpg"
 href="https://live.staticflickr.com/65535/52772718471_6eb32ab6a9_o_d.jpg"
 link="https://www.flickr.com/photos/193261163@N03/52772718471"/>

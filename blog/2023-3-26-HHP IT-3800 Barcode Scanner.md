@@ -20,6 +20,8 @@ Just a quick teardown of a barcode scanner. One annoying thing is you have to re
 href="https://live.staticflickr.com/65535/52773385423_2ba6577406_o_d.jpg"
 link="https://www.flickr.com/photos/193261163@N03/52773385423/in/album-72177720307014652/"/>
 
+<!-- truncate -->
+
 <Image src="https://live.staticflickr.com/65535/52773160084_1e7854c1d7_c_d.jpg"
 href="https://live.staticflickr.com/65535/52773160084_58423df032_o_d.jpg"
 link="https://www.flickr.com/photos/193261163@N03/52773160084/in/album-72177720307014652/"/>
