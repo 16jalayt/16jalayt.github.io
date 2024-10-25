@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_16jalayt_github_io=self.webpackChunk_16jalayt_github_io||[]).push([[396],{5094:a=>{a.exports=JSON.parse('{"metadata":{"permalink":"/page/2","page":2,"postsPerPage":5,"totalPages":2,"totalCount":7,"previousPage":"/","blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

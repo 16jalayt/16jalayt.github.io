@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_16jalayt_github_io=self.webpackChunk_16jalayt_github_io||[]).push([[32],{8322:a=>{a.exports=JSON.parse('{"authors":[{"name":"Jason Layton","title":"Sapphire Forge maintainer","url":"https://github.com/16jalayt","key":"16jalayt","page":null,"count":5}]}')}}]);
