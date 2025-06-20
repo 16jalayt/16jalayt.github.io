@@ -35,6 +35,18 @@ const config = {
     defaultLocale: 'en',
     locales: ['en'],
   },
+  
+  future: {
+    experimental_faster: true,
+	v4: true,
+	v4: {
+      removeLegacyPostBuildHeadAttribute: true,
+    },
+	experimental_faster: {
+      rspackBundler: true,
+      rspackPersistentCache: true,
+    },
+  },
 
   presets: [
     [
