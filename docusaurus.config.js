@@ -26,7 +26,6 @@ const config = {
   deploymentBranch: 'gh-pages',
 
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -37,14 +36,13 @@ const config = {
   },
   
   future: {
-    experimental_faster: true,
 	v4: true,
-	v4: {
-      removeLegacyPostBuildHeadAttribute: true,
-    },
-	experimental_faster: {
-      rspackBundler: true,
-      rspackPersistentCache: true,
+  },
+  
+  markdown: {
+	  hooks: {
+      onBrokenMarkdownLinks: 'warn',
+      onBrokenMarkdownImages: 'throw',
     },
   },
 

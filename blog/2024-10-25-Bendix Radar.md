@@ -6,7 +6,7 @@ tags: [teardown]
 ---
 import Image from  '@site/src/components/Image';
 
-<!--- TODO: Reassembled photo of control assembly -->
+{/* TODO: Reassembled photo of control assembly */}
 
 It has been a while since I have posted and I have now been laid off. Hopefully I will have more time and motivation to post. A few weeks ago, there was a user on Ebay that was parting out their Boeing 737 simulator. Not all of the parts were originally from a 737. Not all of them had been converted to work in a simulator. I was able to acquire an ex Bendix weather radar and associated control panel. The radar would have been located in the center of the front panel of the cockpit between the 2 pilots. I think the control panel would have been in the center console near the radio equipment. I could not find this model anywhere online, so I am not sure what plane it would have been in originally. It was made in the early 90s.
 
@@ -14,7 +14,7 @@ It has been a while since I have posted and I have now been laid off. Hopefully 
 href="https://live.staticflickr.com/65535/54054862321_0fb7fef2d2_o.jpg"
 link="https://www.flickr.com/photos/193261163@N03/54054862321"/>
 
-<!-- truncate -->
+{/* truncate */}
 
 The part I received is only the front panel from the original radar, so I don't have a model number or any other info about the original part. The display board that was used to replace the original CRT is a kyv-n2 v1. This board is available on [Amazon](https://www.amazon.com/NJYTouch-Controller-5-6inch-AT056TN53-640x480/dp/B081WSFSWS) for $32. I do not know where the sourced the LCD panel, but that was obtained separately. The panel was hot glued to the frame with a layer of thin foam insulating the back of the panel from the board.
 

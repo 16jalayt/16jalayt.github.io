@@ -12,7 +12,7 @@ Today's teardown is a Shadin Miniflo which is a fuel flow sensor for an aircraft
 href="https://live.staticflickr.com/65535/54093036504_e36207972a_o.jpg"
 link="https://www.flickr.com/photos/193261163@N03/54093036504"/>
 
-<!-- truncate -->
+{/* truncate */}
 
 <Image src="https://live.staticflickr.com/65535/54091822047_9c16d2fd97_b.jpg"
 href="https://live.staticflickr.com/65535/54091822047_8686346158_o.jpg"

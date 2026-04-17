@@ -12,7 +12,7 @@ This is a decompilation and improvement of Provo Craft's Cricut DesignStudio. Al
 
 The software has been decompiled with ILSpy and rebuilt with newer versions of .net. The original program was .net 2.0, and the versions provided are .net 4.7 and 4.8. Choose 4.7 for Windows 7 and 4.8 for Windows 10 and 11.
 
-<!-- truncate -->
+{/* truncate */}
 
 ## Installation
 
